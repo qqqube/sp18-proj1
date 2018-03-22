@@ -5,4 +5,5 @@ class HomeController < ApplicationController
     @pokemon = trainerless_pokemon.sample
   end
 
+
 end
